@@ -1,4 +1,6 @@
 .idea
 .vscode
-bd.cmd
+bd.py
 test.exe
+new.py
+cp.json
